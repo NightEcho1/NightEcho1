@@ -13,8 +13,8 @@ Java, MySQL, Docker, CSS/HTML, Bash, Spring.
 Apache tomcat, Kotlin, Spring Security, PostgesSQL.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/NightEcho1)
-[![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://drive.google.com/drive/folders/1mQy2JNFTRgBIRel3xXzs7PSx2V3vXUvP?usp=sharing)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/drive/folders/1mQy2JNFTRgBIRel3xXzs7PSx2V3vXUvP?usp=sharing)
+[![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothinginterestedatall)
 [![university badge](https://img.shields.io/badge/university-800000?style=for-the-badge&logo=university&logoColor=white)](https://www.sut.ru/)
 
 ## 🔗 Links of Books i read
@@ -22,3 +22,4 @@ Apache tomcat, Kotlin, Spring Security, PostgesSQL.
 
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf)
 
+https://drive.google.com/drive/folders/1mQy2JNFTRgBIRel3xXzs7PSx2V3vXUvP?usp=sharing
