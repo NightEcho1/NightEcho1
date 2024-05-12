@@ -13,7 +13,7 @@ Java, MySQL, Docker, CSS/HTML, Bash, Spring.
 Apache tomcat, Kotlin, Spring Security, PostgesSQL.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/NightEcho1)
+[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/NightEcho1](https://drive.google.com/drive/folders/1mQy2JNFTRgBIRel3xXzs7PSx2V3vXUvP?usp=sharing))
 [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nothinginterestedatall)
 [![university badge](https://img.shields.io/badge/university-800000?style=for-the-badge&logo=university&logoColor=white)](https://www.sut.ru/)
 
